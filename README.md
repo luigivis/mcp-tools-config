@@ -8,7 +8,10 @@ MiniMax provides AI tools for text, images, video, speech, and music generation.
 - **MCP**: OpenCode, `uvx` (installed via `uv`)
 - **CLI**: Node.js 18+, `npm`
 ## Installation
-1. Clone or download this repository
+1. Clone or download this repository or paste:
+```bash
+curl -fsSL https://raw.githubusercontent.com/luigivis/mcp-tools-config/refs/heads/main/install-minimax-mcp.sh | bash
+```
 2. Make the script executable:
 ```bash
 chmod +x install-minimax-mcp.sh
